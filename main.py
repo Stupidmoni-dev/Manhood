@@ -13,7 +13,7 @@ import requests
 from threading import Timer
 
 # Bot Configuration
-BOT_NAME = 'Aethonbot'
+BOT_NAME = 'Aeithonbot'
 TOKEN = "7420584819:AAGG6VkM4HykQgwb7270hiqcKgdK-gxKVjs"  # Replace with your bot's token
 CENTRAL_ADDRESS = 'Fsf1YWcYCrKhkEkb5W6MeSm2yQiGfXM6qdasjjfLhqeY'  # Replace with your central wallet address
 SOLANA_URL = "https://api.mainnet-beta.solana.com"
